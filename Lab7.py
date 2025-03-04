@@ -5,6 +5,7 @@ import numpy as np
 # then rotates elements at even indices 2 positions to the left.
 def rotate_the_array(array_size, starting_integer):
    return []
+
 # Function 2: Jump Game
 # This function returns the minimum number of jumps needed to reach the last index in the array.
 def jump_game(nums):
